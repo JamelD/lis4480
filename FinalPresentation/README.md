@@ -1,9 +1,14 @@
-UPLOAD SLIDES
+# LIS 4480 - IT Leadership
 
-UPLOAD 1 PAGER REPORT
+## Jamel Douglas
 
-One Page Report - graded by Instructor 5 pts
+### Final Presentation
 
-Slides and class presentation - graded by CLASS 5 pts
+#### Objectives
+Write a one-page report.
+Create a PowerPoint presentation.
 
-Slides and class presentation - graded by Instructor 10 pts
+#### Tasks
+- One Page Report - graded by Instructor 5 pts
+- Slides and class presentation - graded by CLASS 5 pts
+- Slides and class presentation - graded by Instructor 10 pts
