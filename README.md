@@ -6,35 +6,37 @@
 
 *Course Work Links:*
 
-1. [PersonalLeadershipActionPlan README.md](PersonalLeadershipActionPlan/README.md "My PersonalLeadershipActionPlan README.md file")
-    - TBA
+1. [Personal Leadership Action Plan README.md](PLAP/README.md "My Personal Leadership Action Plan README.md file")
+    - Create an action plan based on your current leadership experiences.
 
-2. [MockInterview README.md](MockInterview/README.md "My MockInterview README.md file")
-    - TBA
+2. [Mock Interview README.md](Interview/README.md "My Mock Interview README.md file")
+    - Complete a mock job interview
 
-3. [EmployerLeadershipPrograms README.md](EmployerLeadershipPrograms/README.md "My EmployerLeadershipPrograms README.md file")
-    - TBA
+3. [Employer Leadership Programs README.md](ELP/README.md "My Employer Leadership Programs README.md file")
+    - Write a two page report (single spaced) that reviews LEADERSHIP programs at 3 three companies.  You will need to do research on potential employers (start with companies you are interested in working for, companies that frequent our career fairs, etc).  You need to review companies to learn which ones have a program.  
 
-4. [Report1 README.md](Report1/README.md "My Report1 README.md file")
-    - TBA
+4. [Report 1 README.md](Report1/README.md "My Report 1 README.md file")
+    - Write a report that answers the questions.
 
-5. [Report2 README.md](Report2/README.md "My Report2 README.md file")
-    - TBA
+5. [Report 2 README.md](Report2/README.md "My Report 2 README.md file")
+    - Write a report that answers the questions.
 
-6. [Report3 README.md](Report3/README.md "My Report3 README.md file")
-    - TBA
+6. [Report 3 README.md](Report3/README.md "My Report 3 README.md file")
+    - Write a report that answers the questions.
 
-7. [Report4 README.md](Report4/README.md "My Report4 README.md file")
-    - TBA
+7. [Report 4 README.md](Report4/README.md "My Report 4 README.md file")
+    - Write a report that answers the questions.
 
-8. [Presentation1 README.md](Presentation1/README.md "My Presentation1 README.md file")
-    - TBA
+8. [Presentation 1 README.md](Presentation1/README.md "My Presentation 1 README.md file")
+    - Create a PowerPoint presentation.
 
-9. [Presentation2 README.md](Presentation2/README.md "My Presentation2 README.md file")
-    - TBA
+9. [Presentation 2 README.md](Presentation2/README.md "My Presentation 2 README.md file")
+    - Make a video and Add to YOUTUBE channel (make available only to those with link)
 
-10. [Presentation3 README.md](Presentation3/README.md "My Presentation3 README.md file")
-    - TBA
+10. [Presentation 3 README.md](Presentation3/README.md "My Presentation 3 README.md file")
+    - Make a video and Add to YOUTUBE channel (make available only to those with link)
+    - DRESS IS BUSINESS PROFESSIONAL!!!!!!
 
-11. [FinalPresentation README.md](FinalPresentation/README.md "My FinalPresentation README.md file")
-    - TBA
+11. [Final Presentation README.md](FinalPresentation/README.md "My Final Presentation README.md file")
+    - Write a one-page report.
+    - Create a PowerPoint presentation.
